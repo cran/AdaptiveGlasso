@@ -1,0 +1,14 @@
+f8c9df373ad181408a1575cb265bd3ce *DESCRIPTION
+a3ac41beca4c0fb1ee7efd076f0f3fbb *LICENSE
+2332ed361686ccb73b8f77b1cdca78a6 *NAMESPACE
+fd2e259283274402b00af7e34e005830 *NEWS.md
+28404319e4c3b1c46681d4e8b0c1132c *R/AdaptiveGlasso-package.R
+e6d8377f2b769aefc00bf31d21711b58 *R/adaptive_glasso.R
+3dfcf1a896cc9e4e5a655f9d07df68e3 *R/adaptive_glasso_core.R
+977a2f20da62f7d25cb6e952fa58aceb *README.md
+e400f74cbd56a0b41848e8c399c94169 *man/AdaptiveGlasso-package.Rd
+87241ef175787eedf44b4cbeb19a31cf *man/adaptive_glasso.Rd
+af9247a8206816ebd557f914da8fe9d2 *man/coef.adaptive_glasso_fit.Rd
+5c4aceeae636e648b2d9449d702e042d *man/print.adaptive_glasso_fit.Rd
+7b1a4a8d40a62412b0f3f2c5933cc0b8 *tests/testthat.R
+1ad2e9d1d15072ef77356f9c4b825ff9 *tests/testthat/test-adaptive_glasso.R

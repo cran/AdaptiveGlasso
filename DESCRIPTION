@@ -1,0 +1,33 @@
+Package: AdaptiveGlasso
+Title: Adaptive Graphical Lasso for Sparse Network Estimation
+Version: 1.0.0
+Authors@R: 
+    person(
+        given = "Elizabeth B.",
+        family = "Amona",
+        email = "amonaelizabeth1@gmail.com",
+        role = c("aut", "cre", "cph"),
+        comment = c(ORCID = "0000-0002-7575-788X")
+    )
+Description: Implements an adaptive graphical lasso method for sparse
+    precision matrix and network estimation. The method combines ridge
+    stabilization, cross-validated regularization, an initial graphical
+    lasso estimate, and adaptive edge-specific penalties to estimate
+    sparse conditional dependence structures. The method supports
+    settings where the sample size is smaller than, equal to, or larger
+    than the number of variables.
+URL: https://github.com/elizabethamona/AdaptiveGlasso
+BugReports: https://github.com/elizabethamona/AdaptiveGlasso/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Imports: CVglasso, glasso
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2026-10-13 04:39:31 UTC; amona
+Author: Elizabeth B. Amona [aut, cre, cph] (ORCID:
+    <https://orcid.org/0000-0002-7575-788X>)
+Maintainer: Elizabeth B. Amona <amonaelizabeth1@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-24 08:40:09 UTC
